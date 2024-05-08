@@ -9,7 +9,7 @@ import com.entelgy.challenge.Pojos.Perro;
 import com.entelgy.challenge.Pojos.Vaca;
 
 public class Reporte {
-
+  
     public List<Animal>  cargarDatos() {
         List<Animal> animales = new ArrayList<>();
 
